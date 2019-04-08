@@ -1,0 +1,11 @@
+E:\Work\Code\Translator\LogManager\bin\x64\Debug\NLog.config
+E:\Work\Code\Translator\LogManager\bin\x64\Debug\LogManager.dll.config
+E:\Work\Code\Translator\LogManager\bin\x64\Debug\LogManager.dll
+E:\Work\Code\Translator\LogManager\bin\x64\Debug\LogManager.pdb
+E:\Work\Code\Translator\LogManager\bin\x64\Debug\NLog.dll
+E:\Work\Code\Translator\LogManager\bin\x64\Debug\NLog.xml
+E:\Work\Code\Translator\LogManager\obj\x64\Debug\LogManager.csprojResolveAssemblyReference.cache
+E:\Work\Code\Translator\LogManager\obj\x64\Debug\LogManager.csproj.CoreCompileInputs.cache
+E:\Work\Code\Translator\LogManager\obj\x64\Debug\LogManager.csproj.CopyComplete
+E:\Work\Code\Translator\LogManager\obj\x64\Debug\LogManager.dll
+E:\Work\Code\Translator\LogManager\obj\x64\Debug\LogManager.pdb
