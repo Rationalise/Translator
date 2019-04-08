@@ -1,0 +1,7 @@
+E:\Work\Code\Translator\ConfigurationManager\bin\Debug\ConfigurationManager.config
+E:\Work\Code\Translator\ConfigurationManager\bin\Debug\ConfigurationManager.dll
+E:\Work\Code\Translator\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+E:\Work\Code\Translator\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+E:\Work\Code\Translator\ConfigurationManager\obj\Debug\ConfigurationManager.csproj.CoreCompileInputs.cache
+E:\Work\Code\Translator\ConfigurationManager\obj\Debug\ConfigurationManager.dll
+E:\Work\Code\Translator\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
