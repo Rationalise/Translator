@@ -1,0 +1,7 @@
+E:\Work\Code\Translator\StandAloneScheduler\bin\x64\Debug\TranslatorScheduler.exe.config
+E:\Work\Code\Translator\StandAloneScheduler\bin\x64\Debug\TranslatorScheduler.exe
+E:\Work\Code\Translator\StandAloneScheduler\bin\x64\Debug\TranslatorScheduler.pdb
+E:\Work\Code\Translator\StandAloneScheduler\obj\x64\Debug\TranslatorScheduler.csprojResolveAssemblyReference.cache
+E:\Work\Code\Translator\StandAloneScheduler\obj\x64\Debug\TranslatorScheduler.csproj.CoreCompileInputs.cache
+E:\Work\Code\Translator\StandAloneScheduler\obj\x64\Debug\TranslatorScheduler.exe
+E:\Work\Code\Translator\StandAloneScheduler\obj\x64\Debug\TranslatorScheduler.pdb
